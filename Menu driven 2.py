@@ -83,7 +83,7 @@ while choice=="yes":
         if c in b:
             print("The typed element is present in the tuple")
         else:
-            print("The typed letter is not present in the tuple")
+            print("The typed letterisn not present in the tuple")
     elif a==17:
         break
     choice=input("Do you want to continue (yes/no)")
